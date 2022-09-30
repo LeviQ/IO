@@ -1,3 +1,18 @@
+# Prolog Validator
+
+A window application with a graphical interface made in Windows Forms, 
+created by a group of students for the subject: "Software Engineering". 
+The application's task is to check the correctness of the code in the Prolog language. 
+Program should inform about the number of passed and failed tests and return the result
+in the form of an .xlsx file. ,,Prolog Validator" includes elements such as progress bar, 
+loading files etc.
+
+There is a preview of the application below:
+
+![Screenshot](Prolog1.png)
+![Screenshot](Prolog2.png)
+
+----------------------------------------------------------------------------------------
 # IO
 
 Sprawozdanie z pracy nad projektem
